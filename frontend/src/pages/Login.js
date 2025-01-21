@@ -1,0 +1,1 @@
+//New Game and Continue, which convert to the username and password
